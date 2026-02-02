@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Voidhub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Voidhub</h1>
+    <p>The Ultimate Roblox Executor Hub</p>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>What is Voidhub?</h2>
+      <p>
+        Voidhub is a centralized hub that showcases popular Roblox executors,
+        their features, and official links — all in one place.
+      </p>
+    </section>
+
+    <section class="executors">
+      <h2>Executors</h2>
+
+      <div class="executor-card">
+        <h3>Executor Name</h3>
+        <p><strong>Status:</strong> Undetected</p>
+        <p><strong>Platform:</strong> Windows</p>
+        <p><strong>Key System:</strong> Yes</p>
+        <a href="#" target="_blank">Official Website</a>
+      </div>
+
+      <div class="executor-card">
+        <h3>Executor Name</h3>
+        <p><strong>Status:</strong> Detected</p>
+        <p><strong>Platform:</strong> Windows</p>
+        <p><strong>Key System:</strong> No</p>
+        <a href="#" target="_blank">Official Website</a>
+      </div>
+
+    </section>
+
+    <section class="disclaimer">
+      <h2>Disclaimer</h2>
+      <p>
+        Voidhub does not own or develop any executors listed.
+        This site is for informational purposes only.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 Voidhub. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
